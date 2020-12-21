@@ -1,4 +1,4 @@
-import pygame
+import pygam
 from random import randrange
 
 pygame.display.set_caption("Snake and apple")
